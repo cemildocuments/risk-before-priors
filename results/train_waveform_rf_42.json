@@ -1,0 +1,16 @@
+{
+  "dataset": "waveform",
+  "model": "rf",
+  "seed": 42,
+  "N": 5000,
+  "d": 21,
+  "K": 3,
+  "B": 21,
+  "training": 2000,
+  "design": 500,
+  "pool": 2500,
+  "pool_accuracy": 0.8492,
+  "seconds": 0.6589402910321951,
+  "gpu": false,
+  "sha256": "7848b1744e263a0483dcbd7f0ba091bb9e88615a207b297fc1adf945b2b34d3a"
+}

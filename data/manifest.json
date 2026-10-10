@@ -1,0 +1,67 @@
+[
+  {
+    "dataset": "bean",
+    "filename": "bean.csv",
+    "doi": "10.24432/C50S4B",
+    "url": "https://archive.ics.uci.edu/static/public/602/data.csv",
+    "sha256": "c91a086bb4357e69409d23287ec22be1be9512145cead1d8ca988c918be38fcb",
+    "bytes": 2484757
+  },
+  {
+    "dataset": "letter",
+    "filename": "letter.csv",
+    "doi": "10.24432/C5ZP40",
+    "url": "https://archive.ics.uci.edu/static/public/59/data.csv",
+    "sha256": "9ec44e47110540d997fc2e247464a75ed3da0ad9dfcd49ded7e68fcaab04a9f7",
+    "bytes": 712666
+  },
+  {
+    "dataset": "optdigits",
+    "filename": "optdigits.csv",
+    "doi": "10.24432/C50P49",
+    "url": "https://archive.ics.uci.edu/static/public/80/data.csv",
+    "sha256": "75fc37d1cb6590c84f567c6bd65c73051cdede2568f148a7b23ddd5ecbfdda2b",
+    "bytes": 834735
+  },
+  {
+    "dataset": "pendigits",
+    "filename": "pendigits.csv",
+    "doi": "10.24432/C5MG6K",
+    "url": "https://archive.ics.uci.edu/static/public/81/data.csv",
+    "sha256": "3a3043879657816e18af4bc0822cb89aff03b30988511590e2c05454ce092656",
+    "bytes": 539812
+  },
+  {
+    "dataset": "satellite",
+    "filename": "satellite.csv",
+    "doi": "10.24432/C55887",
+    "url": "https://archive.ics.uci.edu/static/public/146/data.csv",
+    "sha256": "a121454cbcc631ace2b0581b10336c2d553aa7689632e653934374a759bef443",
+    "bytes": 769440
+  },
+  {
+    "dataset": "sensorless",
+    "filename": "sensorless.csv",
+    "doi": "10.24432/C5VP5F",
+    "url": "https://archive.ics.uci.edu/static/public/325/dataset%2Bfor%2Bsensorless%2Bdrive%2Bdiagnosis.zip",
+    "sha256": "bac03646ed1b263e09db00e1b467bcfdbc06aa8f95cbd4002dde9da0059d7b90",
+    "bytes": 25620619
+  },
+  {
+    "dataset": "shuttle",
+    "filename": "shuttle.csv",
+    "doi": "10.24432/C5WS31",
+    "url": "https://archive.ics.uci.edu/static/public/148/data.csv",
+    "sha256": "85dba91ba676297c62ef89d11d8a5d5b1006964338657c9ff0ead856bf068625",
+    "bytes": 1595872,
+    "preprocessing": "Source CSV has eight header names for ten fields per row. All nine numeric predictors retained with neutral feature names; last field is the class."
+  },
+  {
+    "dataset": "waveform",
+    "filename": "waveform.csv",
+    "doi": "10.24432/C5CS3C",
+    "url": "https://archive.ics.uci.edu/static/public/107/data.csv",
+    "sha256": "be943f73491a0867711c0b93408800a75c34ef100184d67bfa5b3dc4f83e7235",
+    "bytes": 555746
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "dataset": "letter",
+  "model": "mlp",
+  "seed": 42,
+  "N": 20000,
+  "d": 16,
+  "K": 26,
+  "B": 182,
+  "training": 8000,
+  "design": 2000,
+  "pool": 10000,
+  "pool_accuracy": 0.9385,
+  "seconds": 2.453284625080414,
+  "gpu": true,
+  "sha256": "f578b7e24611a3ebab4afcd09790308839440cc78a1eed88e649e0c9738a5760"
+}

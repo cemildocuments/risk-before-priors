@@ -1,0 +1,16 @@
+{
+  "dataset": "optdigits",
+  "model": "lr",
+  "seed": 45,
+  "N": 5620,
+  "d": 64,
+  "K": 10,
+  "B": 70,
+  "training": 2248,
+  "design": 562,
+  "pool": 2810,
+  "pool_accuracy": 0.9683274021352313,
+  "seconds": 0.04663220897782594,
+  "gpu": false,
+  "sha256": "84958ebb4d0702064bf179ee3cebcfdce4c5da4715a4ab46c1161235bf052742"
+}

@@ -1,0 +1,16 @@
+{
+  "dataset": "sensorless",
+  "model": "mlp",
+  "seed": 45,
+  "N": 58509,
+  "d": 48,
+  "K": 11,
+  "B": 55,
+  "training": 23403,
+  "design": 5851,
+  "pool": 29255,
+  "pool_accuracy": 0.9906682618355837,
+  "seconds": 2.678018125006929,
+  "gpu": true,
+  "sha256": "1bc494956af155cbd91583dc8a5584355d2c51a0ab8ffa1d63605c30f3745a6b"
+}

@@ -1,0 +1,16 @@
+{
+  "dataset": "bean",
+  "model": "rf",
+  "seed": 42,
+  "N": 13611,
+  "d": 16,
+  "K": 7,
+  "B": 35,
+  "training": 5444,
+  "design": 1361,
+  "pool": 6806,
+  "pool_accuracy": 0.9200705260064649,
+  "seconds": 2.0202198339393362,
+  "gpu": false,
+  "sha256": "20effddfc35fc1d761c0527ee1d564e8e486088ee61f6656d3e426dad68c31c9"
+}

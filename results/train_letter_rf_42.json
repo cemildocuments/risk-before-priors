@@ -1,0 +1,16 @@
+{
+  "dataset": "letter",
+  "model": "rf",
+  "seed": 42,
+  "N": 20000,
+  "d": 16,
+  "K": 26,
+  "B": 182,
+  "training": 8000,
+  "design": 2000,
+  "pool": 10000,
+  "pool_accuracy": 0.9408,
+  "seconds": 1.4491991250542924,
+  "gpu": false,
+  "sha256": "74935c75b026287483b13b3cf356c6c7d7367842913f8b14921af430e2d95d65"
+}

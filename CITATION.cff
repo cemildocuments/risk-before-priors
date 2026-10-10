@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this research software when using its methods or experiments."
+title: "Selective Risk without Prior Identification: Reproducible Experiments"
+type: software
+version: 1.0.0
+date-released: 2026-10-10
+license: MIT
+authors:
+  - family-names: Yavas
+    given-names: Cemil Emre
+    affiliation: "School of Computing, Georgia Southern University"
+    email: cemil@fairesresearch.org
+    orcid: "https://orcid.org/0009-0006-9552-1731"
+keywords:
+  - selective classification
+  - label shift
+  - finite-sample risk control
+  - partial identification
+  - robust optimization
+abstract: "Finite-sample joint-mass certificates and reproducible experiments for selective classification with weakly identifiable target class proportions."

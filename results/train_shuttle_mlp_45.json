@@ -1,0 +1,16 @@
+{
+  "dataset": "shuttle",
+  "model": "mlp",
+  "seed": 45,
+  "N": 58000,
+  "d": 9,
+  "K": 7,
+  "B": 42,
+  "training": 23200,
+  "design": 5800,
+  "pool": 29000,
+  "pool_accuracy": 0.9982758620689656,
+  "seconds": 9.14629199996125,
+  "gpu": true,
+  "sha256": "5fb1fbf435f35c8e557ca83b4cf1ef375ae0e3901a3ba1ddeea98d18797cf805"
+}

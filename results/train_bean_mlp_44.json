@@ -1,0 +1,16 @@
+{
+  "dataset": "bean",
+  "model": "mlp",
+  "seed": 44,
+  "N": 13611,
+  "d": 16,
+  "K": 7,
+  "B": 49,
+  "training": 5444,
+  "design": 1361,
+  "pool": 6806,
+  "pool_accuracy": 0.9306494269761975,
+  "seconds": 0.670308250002563,
+  "gpu": true,
+  "sha256": "36e5165aa35b550af786fae9eedd3785b08314c67481a2f9fab74e41a2b96ca8"
+}

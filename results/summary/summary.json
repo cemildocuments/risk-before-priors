@@ -1,0 +1,22 @@
+{
+  "main_settings": 8640,
+  "main_calibrations": 2880,
+  "main_rows": 77760,
+  "main_pair_wins": 288,
+  "main_pair_losses": 0,
+  "main_gain": 0.009940291416417236,
+  "gain_bootstrap_dataset_percentiles": [
+    0.005941274369396485,
+    0.014170098351662311
+  ],
+  "synthetic_calibrations": 3600,
+  "synthetic_jmc_violations": 0,
+  "policy_settings": 40,
+  "policy_gain": 0.16840280477146297,
+  "policy_max_gap": 6.3836068351808e-05,
+  "policy_max_iterations": 37,
+  "training_models": 120,
+  "all_gpu_mlp": true,
+  "jmc_total_seconds_median": 0.046492562512867056,
+  "jmc_total_seconds_p95": 2.7883117756980904
+}

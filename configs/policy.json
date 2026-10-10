@@ -1,0 +1,28 @@
+{
+  "datasets": [
+    "bean",
+    "sensorless",
+    "shuttle",
+    "waveform"
+  ],
+  "models": [
+    "rf"
+  ],
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "n_per_class": 1000,
+  "target_n": 4000,
+  "shifts": [
+    "severe",
+    "random"
+  ],
+  "risk": 0.1,
+  "delta": 0.05,
+  "max_iterations": 200,
+  "gap_tolerance": 1e-06
+}

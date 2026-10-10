@@ -1,0 +1,23 @@
+{
+  "raw_files": 8,
+  "frozen_populations": 120,
+  "recomputed_scenarios": 8,
+  "operating_rows": 216,
+  "fields_checked": [
+    "policy",
+    "coverage",
+    "risk",
+    "violation",
+    "certified",
+    "coverage_lower",
+    "status",
+    "sigma_min",
+    "condition",
+    "source_n",
+    "B",
+    "K"
+  ],
+  "rtol": 1e-08,
+  "atol": 1e-09,
+  "status": "passed"
+}

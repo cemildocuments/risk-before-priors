@@ -1,0 +1,16 @@
+{
+  "dataset": "waveform",
+  "model": "mlp",
+  "seed": 46,
+  "N": 5000,
+  "d": 21,
+  "K": 3,
+  "B": 21,
+  "training": 2000,
+  "design": 500,
+  "pool": 2500,
+  "pool_accuracy": 0.844,
+  "seconds": 0.21707291703205556,
+  "gpu": true,
+  "sha256": "e3ecbeb278de69db75f990e54822d62656f255caca0b48795a0a347107796978"
+}

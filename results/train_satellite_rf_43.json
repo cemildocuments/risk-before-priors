@@ -1,0 +1,16 @@
+{
+  "dataset": "satellite",
+  "model": "rf",
+  "seed": 43,
+  "N": 6435,
+  "d": 36,
+  "K": 6,
+  "B": 36,
+  "training": 2573,
+  "design": 644,
+  "pool": 3218,
+  "pool_accuracy": 0.9049098819142325,
+  "seconds": 0.7055359160294756,
+  "gpu": false,
+  "sha256": "47024555a420c71eb855840ed5b175910ad22b6fa49e9f5ab3fbf2625c9ab968"
+}

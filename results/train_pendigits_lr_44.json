@@ -1,0 +1,16 @@
+{
+  "dataset": "pendigits",
+  "model": "lr",
+  "seed": 44,
+  "N": 10992,
+  "d": 16,
+  "K": 10,
+  "B": 70,
+  "training": 4396,
+  "design": 1100,
+  "pool": 5496,
+  "pool_accuracy": 0.9490538573508006,
+  "seconds": 0.06625070900190622,
+  "gpu": false,
+  "sha256": "d67cefd9ffaecd632f17de91dd85de70e890dfd40b290a61a3c41797f55a57c8"
+}

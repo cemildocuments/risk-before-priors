@@ -1,0 +1,16 @@
+{
+  "dataset": "sensorless",
+  "model": "rf",
+  "seed": 42,
+  "N": 58509,
+  "d": 48,
+  "K": 11,
+  "B": 66,
+  "training": 23403,
+  "design": 5851,
+  "pool": 29255,
+  "pool_accuracy": 0.9973679712869595,
+  "seconds": 16.397486583096907,
+  "gpu": false,
+  "sha256": "a1b43db1385ca3e1b2a71242a40b80b21659b4aa755c7b01b6d4d4af3c1f385a"
+}

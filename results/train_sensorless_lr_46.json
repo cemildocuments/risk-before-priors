@@ -1,0 +1,16 @@
+{
+  "dataset": "sensorless",
+  "model": "lr",
+  "seed": 46,
+  "N": 58509,
+  "d": 48,
+  "K": 11,
+  "B": 77,
+  "training": 23403,
+  "design": 5851,
+  "pool": 29255,
+  "pool_accuracy": 0.918304563322509,
+  "seconds": 1.3781249579042196,
+  "gpu": false,
+  "sha256": "fe1e2453db4f30de7954a66df6d6faddcb8baa63e61c5e60ad1479b132716ded"
+}
